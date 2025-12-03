@@ -1,0 +1,15 @@
+{
+  "name": "web3-wallet-connect",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ethers": "^6.6.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "dev": "vite"
+  }
+}
